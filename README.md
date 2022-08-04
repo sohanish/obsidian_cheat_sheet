@@ -237,8 +237,13 @@ Ctrl + Shift + Click | Open Note in New Panel via Link
 
 
 ### supported formatting by obsidian  
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 | Element                           |   Support |
+|-----------------------------------|-----------|
 | Headings                          |	  Yes	    |
 | Paragraphs                        |	  Yes	    |
 | Line Breaks	                      |   Yes	    |
