@@ -241,7 +241,7 @@ Ctrl + Shift + Click | Open Note in New Panel via Link
 - Excel to Markdown Tables
 - Advanced Tables
 
-### useful links and have more idea of what obsidian is and how to work on 
+### Useful links and have more idea of what obsidian is and how to work on 
 
 - [Linking your Thinking Youtube channel](https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA)
 - [Playlist for getting started](https://www.youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
@@ -250,7 +250,7 @@ Ctrl + Shift + Click | Open Note in New Panel via Link
 - [More guidance on note taking using the famous Zettelkasten in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
 
 
-### supported formatting by obsidian  
+### Supported formatting by obsidian  
 
 | Element                           |   Support |
 |-----------------------------------|-----------|
@@ -280,7 +280,8 @@ Ctrl + Shift + Click | Open Note in New Panel via Link
 | Automatic URL Linking	            |   Yes	    |
 | Disabling Automatic URL Linking	  |   Yes	    |
 
-**NOTE: HTML	Partial	Some HTML is sanitized for security purposes.**
+**NOTE:** HTML	Partial	Some HTML is sanitized for security purposes.
+
 
 > You've reached the end now. Hope this helped. If yes, consider buying her a small cup of coffee :)
 
