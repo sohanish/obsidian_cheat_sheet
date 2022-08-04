@@ -177,7 +177,8 @@ Table Cell A  |  Table Cell B
 ```<kbd>Ctrl + C</kbd>```
 
 ---
-```
+
+
 </details>
 
 
@@ -232,6 +233,39 @@ Ctrl + Shift + Click | Open Note in New Panel via Link
 - [Playlist for getting started](https://www.youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
 - [A reveiw or have an idea of obsidian](https://www.youtube.com/watch?v=MYJsGksojms)
 - [Have an idea of Second Brain and get an idea but not related but can use obsidian and dont need to go buy the second brain but get an idea instead](https://www.youtube.com/watch?v=OP3dA2GcAh8)
+- [More guidance on note taking ](https://www.youtube.com/watch?v=E6ySG7xYgjY)
+
+
+### supported formatting by obsidian  
+
+| Element                           |   Support |
+| Headings                          |	  Yes	    |
+| Paragraphs                        |	  Yes	    |
+| Line Breaks	                      |   Yes	    |
+| Bold	                            |   Yes	    |
+| Italic	                          |   Yes	    |
+| Blockquotes	                      |   Yes	    |
+| Ordered Lists	                    |   Yes	    |
+| Unordered Lists	                  |   Yes	    |
+| Code	                            |   Yes	    |
+| Horizontal Rules	                |   Yes	    |
+| Images	                          |   Yes	    |
+| Tables	                          |   Yes	    |
+| Fenced Code Blocks	              |   Yes	    |
+| Footnotes	                        |   Yes	    |
+| Heading IDs	                      |   No	    |
+| Definition Lists	                |   No	    |
+| Strikethrough	                    |   Yes	    |
+| Task Lists	                      |   Yes	    |
+| Emoji (copy and paste)	          |   Yes	    |
+| Emoji (shortcodes)	              |   No	    |
+| Highlight	                        |   Yes	    |
+| Subscript	                        |   No	    |
+| Superscript	                      |   No	    |
+| Automatic URL Linking	            |   Yes	    |
+| Disabling Automatic URL Linking	  |   Yes	    |
+
+**NOTE: HTML	Partial	Some HTML is sanitized for security purposes.**
 
 > You've reached the end now. Hope this helped. If yes, consider buying her a small cup of coffee :)
 
