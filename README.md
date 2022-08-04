@@ -1,7 +1,11 @@
 # Obsidian Cheat Sheet and Shortcut Keys 🔮
 *there is a pdf with has all the possibe cheatsheet if you need it in pdf format from - https://rossgriffin.com/tutorials/obsidian-basics-guide/*
+
+---
+
 *This was taken from - https://github.com/ieshreya/Obsidian-Cheat-Sheet*
 
+---
 
 ![](https://i0.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index1.png?resize=768%2C385&ssl=1 )
 
@@ -119,12 +123,15 @@ Table Cell A  |  Table Cell B
 ```~~strikethrough~~```
 ---
 
-***<p>paragraph</p>***
+***<p>paragraph- here no matter how much lines you have within the tags, it will all come as one paragraph which is visible in obsidian and not on github</p>***
 
 ```
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
 
 ```
 ---
@@ -167,7 +174,8 @@ Table Cell A  |  Table Cell B
 ---
 ***<kbd>Keyboard shortcuts</kbd>***
 
-```<kbd>Ctrl + C</kbd>
+```<kbd>Ctrl + C</kbd>```
+
 ---
 ```
 </details>
@@ -218,7 +226,7 @@ Ctrl + Shift + Click | Open Note in New Panel via Link
 - Excel to Markdown Tables
 - Advanced Tables
 
-###useful links and have more idea of what obsidian is and how to work on 
+### useful links and have more idea of what obsidian is and how to work on 
 
 - [Linking your Thinking Youtube channel](https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA)
 - [Playlist for getting started](https://www.youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
