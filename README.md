@@ -241,6 +241,8 @@ Ctrl + Shift + Click | Open Note in New Panel via Link
 - Excel to Markdown Tables
 - Advanced Tables
 
+**NOTE:** You will have to add your own hotkey shortcuts for community plugins from the settings
+
 ### Useful links and have more idea of what obsidian is and how to work on 
 
 - [Linking your Thinking Youtube channel](https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA)
@@ -248,6 +250,7 @@ Ctrl + Shift + Click | Open Note in New Panel via Link
 - [A reveiw or have an idea of obsidian](https://www.youtube.com/watch?v=MYJsGksojms)
 - [Have an idea of Second Brain and get an idea but not related but can use obsidian and dont need to go buy the second brain but get an idea instead](https://www.youtube.com/watch?v=OP3dA2GcAh8)
 - [More guidance on note taking using the famous Zettelkasten in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
+- [Practice to type faster!!](https://www.keybr.com)
 
 
 ### Supported formatting by obsidian  
