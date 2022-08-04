@@ -1,5 +1,5 @@
 # Obsidian Cheat Sheet and Shortcut Keys 🔮
-*there is a pdf with has all the possibe cheatsheet if you need it in pdf format from - https://rossgriffin.com/tutorials/obsidian-basics-guide/*
+*there is a pdf file named 'Obsidian-CHeat-Sheet.pdf' which has all the possibe formatting, which was found from - https://rossgriffin.com/tutorials/obsidian-basics-guide/*
 
 ---
 
@@ -233,6 +233,6 @@ Ctrl + Shift + Click | Open Note in New Panel via Link
 - [A reveiw or have an idea of obsidian](https://www.youtube.com/watch?v=MYJsGksojms)
 - [Have an idea of Second Brain and get an idea but not related but can use obsidian and dont need to go buy the second brain but get an idea instead](https://www.youtube.com/watch?v=OP3dA2GcAh8)
 
-> You've reached the end now. Hope this helped. If yes, consider buying me a small cup of coffee :)
+> You've reached the end now. Hope this helped. If yes, consider buying her a small cup of coffee :)
 
 <a href="https://www.buymeacoffee.com/shreyapurohit" target="_blank"><img src="https://camo.githubusercontent.com/c3f856bacd5b09669157ed4774f80fb9d8622dd45ce8fdf2990d3552db99bd27/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67"></a>
