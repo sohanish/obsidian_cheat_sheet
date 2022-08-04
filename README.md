@@ -46,7 +46,9 @@ Word Formatting & Coding Blocks            |  Links, Quotes & Tables
 
 ```Coding Blocks```
 
-[[Links]](Sources)
+[Links](Sources)
+
+[[backlinking]]
 
 > Quotes/ Blockquotes
 
@@ -148,10 +150,14 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ---
 
-**[[Links]]**
+**[Links]**
 
-``` [[link]](sources)  ```
+``` [link](sources)  ```
 
+---
+**[[backlinking]]**
+
+```[[backlink to a note]]```
 ---
 
 > Quotes/ Blockquotes
