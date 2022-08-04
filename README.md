@@ -118,9 +118,11 @@ Table Cell A  |  Table Cell B
 ``` ==this text is highlighted==```
 
 ---
+
 ***~~Strike~~***
 
 ```~~strikethrough~~```
+
 ---
 
 ***<p>paragraph- here no matter how much lines you have within the tags, it will all come as one paragraph which is visible in obsidian and not on github</p>***
@@ -221,7 +223,8 @@ Ctrl + V  | Duplicate current line
 Ctrl + Click | Open Note in Current Panel via Link	
 Ctrl + Shift + Click | Open Note in New Panel via Link	
 
-### Useful Plugins
+### Useful Plugins from community plugins
+
 - Obsidian Git
 - Sliding Pnes
 - Excel to Markdown Tables
@@ -233,14 +236,10 @@ Ctrl + Shift + Click | Open Note in New Panel via Link
 - [Playlist for getting started](https://www.youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
 - [A reveiw or have an idea of obsidian](https://www.youtube.com/watch?v=MYJsGksojms)
 - [Have an idea of Second Brain and get an idea but not related but can use obsidian and dont need to go buy the second brain but get an idea instead](https://www.youtube.com/watch?v=OP3dA2GcAh8)
-- [More guidance on note taking ](https://www.youtube.com/watch?v=E6ySG7xYgjY)
+- [More guidance on note taking using the famous Zettelkasten in Obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY)
 
 
 ### supported formatting by obsidian  
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 | Element                           |   Support |
 |-----------------------------------|-----------|
