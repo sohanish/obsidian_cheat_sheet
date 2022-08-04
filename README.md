@@ -1,5 +1,5 @@
 # Obsidian Cheat Sheet and Shortcut Keys 🔮
-*there is a pdf file named 'Obsidian-CHeat-Sheet.pdf' which has all the possibe formatting, which was found from - https://rossgriffin.com/tutorials/obsidian-basics-guide/*
+*There is a pdf file named 'Obsidian-CHeat-Sheet.pdf' which has all the possibe formatting, which was found from - https://rossgriffin.com/tutorials/obsidian-basics-guide/*
 
 ---
 
