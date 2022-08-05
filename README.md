@@ -285,6 +285,10 @@ Ctrl + Shift + Click | Open Note in New Panel via Link
 
 **NOTE:** HTML	Partial	Some HTML is sanitized for security purposes.
 
+## Other files 
+
+```Obsidian shortcuts.xlsx = It is a excel sheet which contains all my personal shortcuts for all the functions i use which may differ from the ones mentioned above. ```
+```Obsidian shortcuts.pdf = It is a pdf copy of the shortcuts excel sheet which i keep open in a tab for quick reference```
 
 > You've reached the end now. Hope this helped. If yes, consider buying her a small cup of coffee :)
 
